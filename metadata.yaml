@@ -1,0 +1,29 @@
+_repo: The-de-Bercy-Affair_50705
+contributor:
+  illustrator:
+    agent_name: Christy, Howard Chandler
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '4540'
+    url: http://www.gutenberg.org/2009/agents/4540
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Chandler_Christy
+creator:
+  author:
+    agent_name: Tracy, Louis
+    alias: Holmes, Gordon
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '1627'
+    url: http://www.gutenberg.org/2009/agents/1627
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
+description: ''
+gutenberg_issued: '2015-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The de Bercy Affair
+url: http://www.gutenberg.org/ebooks/50705
