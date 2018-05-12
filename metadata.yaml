@@ -1,4 +1,5 @@
 _repo: The-de-Bercy-Affair_50705
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Christy, Howard Chandler
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4540'
     url: http://www.gutenberg.org/2009/agents/4540
     wikipedia: http://en.wikipedia.org/wiki/Howard_Chandler_Christy
+covers:
+- cover_type: archival
+  image_path: 50705-h/images/cover.jpg
 creator:
   author:
     agent_name: Tracy, Louis
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1627
     wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50705#The-de-Bercy-Affair
 gutenberg_issued: '2015-12-17'
 gutenberg_type: Text
 identifiers:
